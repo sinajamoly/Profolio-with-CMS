@@ -1,0 +1,12 @@
+.gallery {
+  margin-top: 100px; }
+  .gallery .images {
+    border-radius: 5px; }
+  .gallery .images:hover {
+    opacity: 0.9; }
+  .gallery img {
+    max-height: 300px; }
+
+  .projects{
+    margin-top: 10em;
+  }

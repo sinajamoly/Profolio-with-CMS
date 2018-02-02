@@ -1,0 +1,14 @@
+// Main Sass File
+.gallery{
+    
+    margin-top: 100px;
+    .images{
+        border-radius: 5px;
+    }
+    .images:hover{
+        opacity: 0.9;
+    }
+    img{
+        max-height: 300px;
+    }
+}
